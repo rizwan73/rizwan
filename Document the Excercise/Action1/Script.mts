@@ -1,0 +1,4 @@
+﻿Browser("Advantage Shopping").Page("Advantage Shopping").Link("speakersTxt").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("speakersTxt")_;_script infofile_;_ZIP::ssf1.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("Bose SoundLink Wireless").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("Bose SoundLink Wireless")_;_script infofile_;_ZIP::ssf2.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("About AOS Versions   0").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("SPEAKERS")_;_script infofile_;_ZIP::ssf4.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").Link("HOME").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("HOME")_;_script infofile_;_ZIP::ssf5.xml_;_
